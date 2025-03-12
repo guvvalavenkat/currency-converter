@@ -1,8 +1,8 @@
-Currency Converter
+**Currency Converter**
 
 A simple and responsive currency converter web application built using HTML, CSS, and JavaScript. This tool allows users to convert between different currencies in real time.
 
-Live Demo
+**Live Demo**
 
 Currency Converter
 
