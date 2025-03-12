@@ -20,7 +20,7 @@ A simple and responsive currency converter web application built using HTML, CSS
 To run the project locally:
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-username/currency-converter.git
+   git clone https://github.com/guvvalavenkat/currency-converter.git
    ```
 2. Navigate to the project folder:
    ```sh
